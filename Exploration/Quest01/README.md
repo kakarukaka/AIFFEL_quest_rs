@@ -21,9 +21,9 @@
 
       - 필요 부분에 적절히 주석처리되어 있음 
 
-        ![annotation1](./peerreviewimage/annotation1.png)
-        
-        ![annotation2](./peerreviewimage/annotation2.png)
+      ![annotation1](./peerreviewimage/annotation1.png)
+
+      ![annotation2](./peerreviewimage/annotation2.png)
 
 
 
