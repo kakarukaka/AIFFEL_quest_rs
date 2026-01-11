@@ -1,0 +1,16 @@
+opencv-python
+easyocr
+rapidfuzz
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+faiss-cpu
+langchain-huggingface
+google-genai
+google-cloud-speech
+google-cloud-texttospeech
+gradio
+pandas
+numpy
+openpyxl
